@@ -1,0 +1,16 @@
+C:\Users\XIAOMI\RiderProjects\ProtocolPOP3\ProtocolPOP3\bin\Debug\ProtocolPOP3.exe
+C:\Users\XIAOMI\RiderProjects\ProtocolPOP3\ProtocolPOP3\bin\Debug\ProtocolPOP3.pdb
+C:\Users\XIAOMI\RiderProjects\ProtocolPOP3\ProtocolPOP3\obj\Debug\ProtocolPOP3.csprojAssemblyReference.cache
+C:\Users\XIAOMI\RiderProjects\ProtocolPOP3\ProtocolPOP3\obj\Debug\ProtocolPOP3.exe
+C:\Users\XIAOMI\RiderProjects\ProtocolPOP3\ProtocolPOP3\obj\Debug\ProtocolPOP3.pdb
+C:\Users\agcl3\OneDrive\Рабочий стол\Ксис 4\POP3\ProtocolPOP3\bin\Debug\ProtocolPOP3.exe
+C:\Users\agcl3\OneDrive\Рабочий стол\Ксис 4\POP3\ProtocolPOP3\bin\Debug\ProtocolPOP3.pdb
+C:\Users\agcl3\OneDrive\Рабочий стол\Ксис 4\POP3\ProtocolPOP3\obj\Debug\ProtocolPOP3.csprojAssemblyReference.cache
+C:\Users\agcl3\OneDrive\Рабочий стол\Ксис 4\POP3\ProtocolPOP3\obj\Debug\ProtocolPOP3.exe
+C:\Users\agcl3\OneDrive\Рабочий стол\Ксис 4\POP3\ProtocolPOP3\obj\Debug\ProtocolPOP3.pdb
+C:\Users\KSU\Лабы\4 сем\КСиС\Ксис 4\POP3\ProtocolPOP3\bin\Debug\ProtocolPOP3.exe
+C:\Users\KSU\Лабы\4 сем\КСиС\Ксис 4\POP3\ProtocolPOP3\bin\Debug\ProtocolPOP3.pdb
+C:\Users\KSU\Лабы\4 сем\КСиС\Ксис 4\POP3\ProtocolPOP3\obj\Debug\ProtocolPOP3.csprojAssemblyReference.cache
+C:\Users\KSU\Лабы\4 сем\КСиС\Ксис 4\POP3\ProtocolPOP3\obj\Debug\ProtocolPOP3.csproj.CoreCompileInputs.cache
+C:\Users\KSU\Лабы\4 сем\КСиС\Ксис 4\POP3\ProtocolPOP3\obj\Debug\ProtocolPOP3.exe
+C:\Users\KSU\Лабы\4 сем\КСиС\Ксис 4\POP3\ProtocolPOP3\obj\Debug\ProtocolPOP3.pdb
