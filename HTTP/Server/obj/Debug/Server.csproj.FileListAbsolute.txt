@@ -1,0 +1,13 @@
+C:\Users\agcl3\OneDrive\Рабочий стол\Ксис 4\HTTP\Server\Server\bin\Debug\Server.exe.config
+C:\Users\agcl3\OneDrive\Рабочий стол\Ксис 4\HTTP\Server\Server\bin\Debug\Server.exe
+C:\Users\agcl3\OneDrive\Рабочий стол\Ксис 4\HTTP\Server\Server\bin\Debug\Server.pdb
+C:\Users\agcl3\OneDrive\Рабочий стол\Ксис 4\HTTP\Server\Server\obj\Debug\Server.csprojAssemblyReference.cache
+C:\Users\agcl3\OneDrive\Рабочий стол\Ксис 4\HTTP\Server\Server\obj\Debug\Server.exe
+C:\Users\agcl3\OneDrive\Рабочий стол\Ксис 4\HTTP\Server\Server\obj\Debug\Server.pdb
+C:\Users\KSU\Лабы\4 сем\КСиС\Ксис 4\HTTP\Server\Server\bin\Debug\Server.exe.config
+C:\Users\KSU\Лабы\4 сем\КСиС\Ксис 4\HTTP\Server\Server\bin\Debug\Server.exe
+C:\Users\KSU\Лабы\4 сем\КСиС\Ксис 4\HTTP\Server\Server\bin\Debug\Server.pdb
+C:\Users\KSU\Лабы\4 сем\КСиС\Ксис 4\HTTP\Server\Server\obj\Debug\Server.csprojAssemblyReference.cache
+C:\Users\KSU\Лабы\4 сем\КСиС\Ксис 4\HTTP\Server\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\KSU\Лабы\4 сем\КСиС\Ксис 4\HTTP\Server\Server\obj\Debug\Server.exe
+C:\Users\KSU\Лабы\4 сем\КСиС\Ксис 4\HTTP\Server\Server\obj\Debug\Server.pdb
