@@ -1,0 +1,13 @@
+C:\Users\agcl3\OneDrive\Рабочий стол\Ксис 4\HTTP\Client\Client\bin\Debug\Client.exe.config
+C:\Users\agcl3\OneDrive\Рабочий стол\Ксис 4\HTTP\Client\Client\bin\Debug\Client.exe
+C:\Users\agcl3\OneDrive\Рабочий стол\Ксис 4\HTTP\Client\Client\bin\Debug\Client.pdb
+C:\Users\agcl3\OneDrive\Рабочий стол\Ксис 4\HTTP\Client\Client\obj\Debug\Client.csprojAssemblyReference.cache
+C:\Users\agcl3\OneDrive\Рабочий стол\Ксис 4\HTTP\Client\Client\obj\Debug\Client.exe
+C:\Users\agcl3\OneDrive\Рабочий стол\Ксис 4\HTTP\Client\Client\obj\Debug\Client.pdb
+C:\Users\KSU\Лабы\4 сем\КСиС\Ксис 4\HTTP\Client\Client\bin\Debug\Client.exe.config
+C:\Users\KSU\Лабы\4 сем\КСиС\Ксис 4\HTTP\Client\Client\bin\Debug\Client.exe
+C:\Users\KSU\Лабы\4 сем\КСиС\Ксис 4\HTTP\Client\Client\bin\Debug\Client.pdb
+C:\Users\KSU\Лабы\4 сем\КСиС\Ксис 4\HTTP\Client\Client\obj\Debug\Client.csprojAssemblyReference.cache
+C:\Users\KSU\Лабы\4 сем\КСиС\Ксис 4\HTTP\Client\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\KSU\Лабы\4 сем\КСиС\Ксис 4\HTTP\Client\Client\obj\Debug\Client.exe
+C:\Users\KSU\Лабы\4 сем\КСиС\Ксис 4\HTTP\Client\Client\obj\Debug\Client.pdb
