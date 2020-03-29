@@ -1,0 +1,33 @@
+D:\ftp\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.exe
+D:\ftp\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.deps.json
+D:\ftp\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.json
+D:\ftp\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.dev.json
+D:\ftp\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.dll
+D:\ftp\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.pdb
+D:\ftp\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csprojAssemblyReference.cache
+D:\ftp\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfoInputs.cache
+D:\ftp\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfo.cs
+D:\ftp\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.dll
+D:\ftp\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.pdb
+C:\Users\agcl3\OneDrive\Рабочий стол\FTP-Server-master\Client\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.exe
+C:\Users\agcl3\OneDrive\Рабочий стол\FTP-Server-master\Client\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.deps.json
+C:\Users\agcl3\OneDrive\Рабочий стол\FTP-Server-master\Client\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.json
+C:\Users\agcl3\OneDrive\Рабочий стол\FTP-Server-master\Client\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.dev.json
+C:\Users\agcl3\OneDrive\Рабочий стол\FTP-Server-master\Client\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.dll
+C:\Users\agcl3\OneDrive\Рабочий стол\FTP-Server-master\Client\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.pdb
+C:\Users\agcl3\OneDrive\Рабочий стол\FTP-Server-master\Client\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csprojAssemblyReference.cache
+C:\Users\agcl3\OneDrive\Рабочий стол\FTP-Server-master\Client\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\agcl3\OneDrive\Рабочий стол\FTP-Server-master\Client\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfo.cs
+C:\Users\agcl3\OneDrive\Рабочий стол\FTP-Server-master\Client\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.dll
+C:\Users\agcl3\OneDrive\Рабочий стол\FTP-Server-master\Client\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.pdb
+C:\Users\АНАСТАСИЯ\Downloads\FTP-Server-master\Client\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.exe
+C:\Users\АНАСТАСИЯ\Downloads\FTP-Server-master\Client\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.deps.json
+C:\Users\АНАСТАСИЯ\Downloads\FTP-Server-master\Client\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.json
+C:\Users\АНАСТАСИЯ\Downloads\FTP-Server-master\Client\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.dev.json
+C:\Users\АНАСТАСИЯ\Downloads\FTP-Server-master\Client\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.dll
+C:\Users\АНАСТАСИЯ\Downloads\FTP-Server-master\Client\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.pdb
+C:\Users\АНАСТАСИЯ\Downloads\FTP-Server-master\Client\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csprojAssemblyReference.cache
+C:\Users\АНАСТАСИЯ\Downloads\FTP-Server-master\Client\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\АНАСТАСИЯ\Downloads\FTP-Server-master\Client\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfo.cs
+C:\Users\АНАСТАСИЯ\Downloads\FTP-Server-master\Client\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.dll
+C:\Users\АНАСТАСИЯ\Downloads\FTP-Server-master\Client\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.pdb

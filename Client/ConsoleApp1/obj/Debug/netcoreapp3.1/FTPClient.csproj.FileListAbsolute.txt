@@ -1,0 +1,11 @@
+C:\Users\agcl3\OneDrive\Рабочий стол\Ксис 4\FTP\Client\ConsoleApp1\bin\Debug\netcoreapp3.1\FTPClient.exe
+C:\Users\agcl3\OneDrive\Рабочий стол\Ксис 4\FTP\Client\ConsoleApp1\bin\Debug\netcoreapp3.1\FTPClient.deps.json
+C:\Users\agcl3\OneDrive\Рабочий стол\Ксис 4\FTP\Client\ConsoleApp1\bin\Debug\netcoreapp3.1\FTPClient.runtimeconfig.json
+C:\Users\agcl3\OneDrive\Рабочий стол\Ксис 4\FTP\Client\ConsoleApp1\bin\Debug\netcoreapp3.1\FTPClient.runtimeconfig.dev.json
+C:\Users\agcl3\OneDrive\Рабочий стол\Ксис 4\FTP\Client\ConsoleApp1\bin\Debug\netcoreapp3.1\FTPClient.dll
+C:\Users\agcl3\OneDrive\Рабочий стол\Ксис 4\FTP\Client\ConsoleApp1\bin\Debug\netcoreapp3.1\FTPClient.pdb
+C:\Users\agcl3\OneDrive\Рабочий стол\Ксис 4\FTP\Client\ConsoleApp1\obj\Debug\netcoreapp3.1\FTPClient.csprojAssemblyReference.cache
+C:\Users\agcl3\OneDrive\Рабочий стол\Ксис 4\FTP\Client\ConsoleApp1\obj\Debug\netcoreapp3.1\FTPClient.AssemblyInfoInputs.cache
+C:\Users\agcl3\OneDrive\Рабочий стол\Ксис 4\FTP\Client\ConsoleApp1\obj\Debug\netcoreapp3.1\FTPClient.AssemblyInfo.cs
+C:\Users\agcl3\OneDrive\Рабочий стол\Ксис 4\FTP\Client\ConsoleApp1\obj\Debug\netcoreapp3.1\FTPClient.dll
+C:\Users\agcl3\OneDrive\Рабочий стол\Ксис 4\FTP\Client\ConsoleApp1\obj\Debug\netcoreapp3.1\FTPClient.pdb

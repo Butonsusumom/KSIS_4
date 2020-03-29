@@ -1,0 +1,31 @@
+D:\лабы\КСиС\FTP Server\FTP Server\FTP Server\bin\Debug\FTP Server.exe.config
+D:\лабы\КСиС\FTP Server\FTP Server\FTP Server\obj\Debug\FTP Server.csprojResolveAssemblyReference.cache
+D:\лабы\КСиС\FTP Server\FTP Server\FTP Server\bin\Debug\FTP Server.exe
+D:\лабы\КСиС\FTP Server\FTP Server\FTP Server\bin\Debug\FTP Server.pdb
+D:\лабы\КСиС\FTP Server\FTP Server\FTP Server\obj\Debug\FTP Server.exe
+D:\лабы\КСиС\FTP Server\FTP Server\FTP Server\obj\Debug\FTP Server.pdb
+C:\Users\agcl3\OneDrive\Рабочий стол\FTP-Server-master\FTP Server\FTP Server\bin\Debug\FTP Server.exe.config
+C:\Users\agcl3\OneDrive\Рабочий стол\FTP-Server-master\FTP Server\FTP Server\bin\Debug\FTP Server.exe
+C:\Users\agcl3\OneDrive\Рабочий стол\FTP-Server-master\FTP Server\FTP Server\bin\Debug\FTP Server.pdb
+C:\Users\agcl3\OneDrive\Рабочий стол\FTP-Server-master\FTP Server\FTP Server\obj\Debug\FTP Server.csprojAssemblyReference.cache
+C:\Users\agcl3\OneDrive\Рабочий стол\FTP-Server-master\FTP Server\FTP Server\obj\Debug\FTP Server.exe
+C:\Users\agcl3\OneDrive\Рабочий стол\FTP-Server-master\FTP Server\FTP Server\obj\Debug\FTP Server.pdb
+C:\Users\АНАСТАСИЯ\Downloads\FTP-Server-master\FTP Server\FTP Server\bin\Debug\FTP Server.exe.config
+C:\Users\АНАСТАСИЯ\Downloads\FTP-Server-master\FTP Server\FTP Server\bin\Debug\FTP Server.exe
+C:\Users\АНАСТАСИЯ\Downloads\FTP-Server-master\FTP Server\FTP Server\bin\Debug\FTP Server.pdb
+C:\Users\АНАСТАСИЯ\Downloads\FTP-Server-master\FTP Server\FTP Server\obj\Debug\FTP Server.csprojAssemblyReference.cache
+C:\Users\АНАСТАСИЯ\Downloads\FTP-Server-master\FTP Server\FTP Server\obj\Debug\FTP Server.exe
+C:\Users\АНАСТАСИЯ\Downloads\FTP-Server-master\FTP Server\FTP Server\obj\Debug\FTP Server.pdb
+C:\Users\agcl3\OneDrive\Рабочий стол\Ксис 4\FTP\FTP Server\FTP Server\bin\Debug\FTP Server.exe.config
+C:\Users\agcl3\OneDrive\Рабочий стол\Ксис 4\FTP\FTP Server\FTP Server\bin\Debug\FTP Server.exe
+C:\Users\agcl3\OneDrive\Рабочий стол\Ксис 4\FTP\FTP Server\FTP Server\bin\Debug\FTP Server.pdb
+C:\Users\agcl3\OneDrive\Рабочий стол\Ксис 4\FTP\FTP Server\FTP Server\obj\Debug\FTP Server.csprojAssemblyReference.cache
+C:\Users\agcl3\OneDrive\Рабочий стол\Ксис 4\FTP\FTP Server\FTP Server\obj\Debug\FTP Server.exe
+C:\Users\agcl3\OneDrive\Рабочий стол\Ксис 4\FTP\FTP Server\FTP Server\obj\Debug\FTP Server.pdb
+C:\Users\KSU\Лабы\4 сем\КСиС\Ксис 4\FTP\FTP Server\FTP Server\bin\Debug\FTP Server.exe.config
+C:\Users\KSU\Лабы\4 сем\КСиС\Ксис 4\FTP\FTP Server\FTP Server\bin\Debug\FTP Server.exe
+C:\Users\KSU\Лабы\4 сем\КСиС\Ксис 4\FTP\FTP Server\FTP Server\bin\Debug\FTP Server.pdb
+C:\Users\KSU\Лабы\4 сем\КСиС\Ксис 4\FTP\FTP Server\FTP Server\obj\Debug\FTP Server.csprojAssemblyReference.cache
+C:\Users\KSU\Лабы\4 сем\КСиС\Ксис 4\FTP\FTP Server\FTP Server\obj\Debug\FTP Server.csproj.CoreCompileInputs.cache
+C:\Users\KSU\Лабы\4 сем\КСиС\Ксис 4\FTP\FTP Server\FTP Server\obj\Debug\FTP Server.exe
+C:\Users\KSU\Лабы\4 сем\КСиС\Ксис 4\FTP\FTP Server\FTP Server\obj\Debug\FTP Server.pdb
