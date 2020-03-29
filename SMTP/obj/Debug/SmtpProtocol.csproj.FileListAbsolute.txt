@@ -1,0 +1,16 @@
+E:\Labs\KSIS\Laba4\SmtpProtocol\bin\Debug\SmtpProtocol.exe
+E:\Labs\KSIS\Laba4\SmtpProtocol\bin\Debug\SmtpProtocol.pdb
+E:\Labs\KSIS\Laba4\SmtpProtocol\obj\Debug\SmtpProtocol.csprojAssemblyReference.cache
+E:\Labs\KSIS\Laba4\SmtpProtocol\obj\Debug\SmtpProtocol.exe
+E:\Labs\KSIS\Laba4\SmtpProtocol\obj\Debug\SmtpProtocol.pdb
+C:\Users\agcl3\OneDrive\Рабочий стол\Ксис 4\SMTP\bin\Debug\SmtpProtocol.exe
+C:\Users\agcl3\OneDrive\Рабочий стол\Ксис 4\SMTP\bin\Debug\SmtpProtocol.pdb
+C:\Users\agcl3\OneDrive\Рабочий стол\Ксис 4\SMTP\obj\Debug\SmtpProtocol.csprojAssemblyReference.cache
+C:\Users\agcl3\OneDrive\Рабочий стол\Ксис 4\SMTP\obj\Debug\SmtpProtocol.exe
+C:\Users\agcl3\OneDrive\Рабочий стол\Ксис 4\SMTP\obj\Debug\SmtpProtocol.pdb
+C:\Users\KSU\Лабы\4 сем\КСиС\Ксис 4\SMTP\bin\Debug\SmtpProtocol.exe
+C:\Users\KSU\Лабы\4 сем\КСиС\Ксис 4\SMTP\bin\Debug\SmtpProtocol.pdb
+C:\Users\KSU\Лабы\4 сем\КСиС\Ксис 4\SMTP\obj\Debug\SmtpProtocol.csprojAssemblyReference.cache
+C:\Users\KSU\Лабы\4 сем\КСиС\Ксис 4\SMTP\obj\Debug\SmtpProtocol.csproj.CoreCompileInputs.cache
+C:\Users\KSU\Лабы\4 сем\КСиС\Ксис 4\SMTP\obj\Debug\SmtpProtocol.exe
+C:\Users\KSU\Лабы\4 сем\КСиС\Ксис 4\SMTP\obj\Debug\SmtpProtocol.pdb
